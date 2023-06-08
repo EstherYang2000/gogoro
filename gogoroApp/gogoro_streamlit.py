@@ -3,6 +3,8 @@ import utils as utl
 from views import PerUser,Risk,AllUser
 
 st.set_page_config(layout="wide", page_title='Gogoro Living Circle',page_icon="🛵")
+# st.image('output/driver.jpg')
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 utl.inject_custom_css()
 utl.navbar_component()

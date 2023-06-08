@@ -216,7 +216,7 @@ class gaussian:
         
         # Plot the buffer
         buffered_series.to_file(output_file, driver='GeoJSON')
-        buffered_series.to_file("swapin.shp")
+        buffered_series.to_file("swapin.shp") #改檔名
  
         return buffered_series
     
