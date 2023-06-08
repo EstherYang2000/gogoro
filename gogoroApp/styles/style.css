@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&display=swap");
+
+.css-z5fcl4.e1g8pov64 {
+  /* background-image: url("D:\學士、碩班課程\111-2\DAC\Streamlit\tw.svg"); */
+  width: 100%;
+}
+
+.main.css-uf99v8.e1g8pov65 {
+  /* background-color: #d3d3d3; */
+  font-family:'Noto Sans TC',sans-serif !important;
+
+}
+.css-1y4p8pa{
+    width: 100%;
+    padding: 6rem 1rem 6rem;
+    max-width: 65rem;
+}
+
+.navbar {
+  font-family: 'Noto Sans TC',sans-serif !important;
+  position: fixed;
+  width: 100%;
+  background: #121215;
+  z-index: 99999999999999999999;
+  left: 0rem;
+  top: 0rem;
+  height: 55px;
+}
+.navitem1 {
+  float: left;
+  display: block;
+  color: #f2f2f2 !important;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none !important;
+  border-bottom: 2px solid transparent;
+  font-size: 20px;
+  font-family: 'Noto Sans TC',sans-serif !important;
+}
+.navitem {
+  float: right;
+  display: block;
+  color: #f2f2f2 !important;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none !important;
+  border-bottom: 2px solid transparent;
+  font-size: 14px;
+  font-family: 'Noto Sans TC',sans-serif !important;
+}
+
+.navitem:hover {
+  background-color: #333;
+  height: 55px !important;
+}
+
+
+
+
+.css-164nlkn.e1g8pov61 {
+  visibility: hidden;
+}
+
+.css-1v0mbdj.ebxwdo61 {
+  width: 20vw;
+  height: 20vw;
+}
+
+#map_0685fcb8612d492c987c55c97ddc4237{
+  width: 100vw;
+  height: 20%;
+
+}
+
+.css-16idsys.eqr7zpz4 p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.css-10trblm.eqr7zpz0 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#map{
+    justify-content: center;
+}
+
+
+/*card*/
+
+.css-1r6slb0.esravye1{
+    background-color: #ffffff;
+    border: 1px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+    
+    border-left: 0.5rem solid #9AD8E1 !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+label.css-mkogse.e16fv1kl2 {
+    color: #36b9cc !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+}
+

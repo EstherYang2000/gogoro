@@ -1,0 +1,10 @@
+scooter_id,most_common_group,weekend_count_x,weekday_count_x,weekday_preference_x,offPeak_count_x,peak_count_x,swapHour_preference_x
+10a805da-2f78-4a80-aaf1-4a5519808082,Group 1,6,24,偏好平日,22,8,偏好尖峰
+11937e07-eeaa-45d8-8f71-9687de8f85a5,Group 1,4,26,偏好平日,22,8,偏好尖峰
+2363fec0-068d-4eac-8850-ba9bdef45108,Group 1,9,21,偏好假日,29,1,偏好離峰
+41e8984e-c769-4568-bcc3-97c5da73734e,Group 4,5,25,偏好平日,24,6,偏好尖峰
+8b538eeb-6d13-4b1c-9f79-7c0953607a7c,Group 3,8,22,偏好平日,24,6,偏好尖峰
+9ed764ba-cd31-43dc-ae0f-2ac54535cab6,Group 1,2,28,偏好平日,24,6,偏好尖峰
+aa6c3175-c18a-4fe2-92c5-b709264b44cf,Group 1,0,30,偏好平日,15,15,偏好尖峰
+aaaaaab1-0000-4001-0199-cbcb94832f2e,Group 3,3,27,偏好平日,27,3,偏好離峰
+ae7dd868-2230-4cbe-852a-dfe4e41240c5,Group 4,8,22,偏好平日,19,11,偏好尖峰
